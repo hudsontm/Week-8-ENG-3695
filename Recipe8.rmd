@@ -1,0 +1,39 @@
+---
+title: "Recipe Week 8 Minor Assignment"
+output: html_document
+date: '2023-03-09'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# How to Make Cheesy Pasta
+
+This is my families go to simple recipe we make we don't have a dinner plan and we don't want to eat out. 
+
+### Cook Time: ~15-20 min
+### Need: 2 pots, stove, strainer something to stir both pots
+
+### Serves 4
+
+### Ingredients:
+1 box of pasta
+1/2 stick of butter
+1/2 cup of heavy cream
+1/2 cup of shredder Parmesan cheese
+
+### Instructions
+1. Fill pot half way with water.
+2. Bring water to a boil on the stove (cover pot to speed up)
+3. Once water is at a boil, pour pasta in and cook for recommended time (varies by brand)
+4. Stir pasta occasionally (once every two minutes or so)
+5. While that is cooking, heat up other pot.
+6. Place the cream, butter, and cheese into the pot. (this will be our sauce)
+7. It is recommended to turn down the heat of both pots once ingredients are put in
+8. Stir pot with our sauce frequently (30 sec - 1 min) in order to prevent it from burning.
+9. Once the sauce is thoroughly mixed, turn down the heat on the stove to low.
+10. Once the pasta timer i up, pour contents into the strainer in a sink.
+11. Pour past back into original pot, and add in the sauce.
+Mix and enjoy!
+
